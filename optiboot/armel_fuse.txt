@@ -1,0 +1,2 @@
+Nano:
+-c usbasp -p m328p -B12 -U lfuse:w:0xff:m -U hfuse:w:0xda:m -U efuse:w:0x05:m
